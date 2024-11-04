@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+     
+            <!-- <menu name="Period" route="period.index" icon="bx bxs-timer" /> -->
+            <menu name="Time Table" route="classtimetable.index" icon="bx bxs-time-five" />
+           
+     
+    </group>
+     
+</menus>
+

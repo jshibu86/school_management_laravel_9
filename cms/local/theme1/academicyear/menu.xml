@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Institute" order="5">
+       <menu name="Designation" route="designationview" icon="bx bx-badge-check" />
+        </group>
+      
+</menus>

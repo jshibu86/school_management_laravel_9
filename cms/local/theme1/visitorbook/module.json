@@ -1,0 +1,8 @@
+{
+  "name": "visitorbook",
+  "version": "0.0.1",
+  "type" : "local",
+  "providers": [
+    "Providers\\VisitorbookServiceProvider"
+  ]
+}

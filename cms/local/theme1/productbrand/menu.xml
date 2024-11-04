@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Tuck Shop" order="7">
+      
+            <menu name="Brand" route="productbrand.index" icon="bx bxs-shopping-bags"/>
+           
+          
+    </group>
+     
+</menus>

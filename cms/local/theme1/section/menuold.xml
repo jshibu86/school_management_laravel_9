@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+        <menugroup name="Section" icon="bx bx-building-house" order="3">
+            <menu name="View Section" route="section.index" />
+            <menu name="Add Section" route="section.create" />
+        </menugroup>
+    </group>
+</menus>

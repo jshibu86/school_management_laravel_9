@@ -1,0 +1,179 @@
+.blue_bg {
+    background: #f7f9fd;
+    border-radius: 4px;
+}
+.top_box {
+    border-radius: 4px 4px 0px 0px;
+}
+.sub_txt {
+    color: rgba(0, 0, 0, 0.56);
+    font-size: 14px;
+}
+.date_arrow {
+    color: #673ab7;
+    font-size: 24px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.schedule_table th {
+    width: 10%;
+    text-align: center;
+    padding: 30px 10px;
+    white-space: nowrap;
+}
+.schedule_table td {
+    padding: 0;
+}
+.schedule_table,
+.schedule_table th,
+.schedule_table td {
+    border: 3px solid #edf1f9;
+}
+.schedule_box {
+    /* border-bottom: 3px solid #000; */
+    border-radius: 4px;
+    padding: 15px 5px;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.schedule_box_pink {
+    background-color: #fff1fb;
+    border-color: #ff55cf;
+}
+.schedule_box_break_view {
+    background-color: #fffcf8;
+    /* border-bottom:  3px solid #FFE455;
+	display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* border-left: 3px solid #FFE455; */
+}
+.schedule_box_break {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border-left: 3px solid #FFE455; */
+}
+.schedule_box_yellow {
+    background-color: #fffcf8;
+
+    border-color: 3px solid #ffe455;
+}
+.schedule_box_darkblue {
+    background-color: #f2f6ff;
+    border-color: #0945dc;
+}
+.schedule_box_green {
+    background-color: #f2fff7;
+    border-color: #3fc171;
+}
+.schedule_box_blue {
+    background-color: #f2f6ff;
+    border-color: #5585ff;
+}
+.schedule_box_skyblue {
+    background-color: #f2f6ff;
+    border-color: #5585ff;
+}
+.schedule_box_orange {
+    background-color: #fff5f1;
+    border-color: #ff8855;
+}
+.schedule_box_gray {
+    background-color: #fff5f1;
+    border-color: gray;
+}
+.txt_red {
+    color: #ff5555;
+}
+.color_btn {
+    cursor: pointer;
+}
+.round_colors {
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.color_green {
+    background-color: #3fc1b2;
+}
+.color_darkblue {
+    background-color: #5585ff;
+}
+.color_violet {
+    background-color: #513fc1;
+}
+.color_pink {
+    background-color: #ff55cf;
+}
+.color_orange {
+    background-color: #ff8855;
+}
+.color_skyblue {
+    background-color: #55d6ff;
+}
+.color_yellow {
+    background-color: #ffe142;
+}
+.color_gray {
+    background-color: #5f6379;
+}
+.color_pic {
+    background-image: url("../../../../assets/images/color_img.png");
+    background-color: #3fc1b2;
+}
+.color_modal .modal-content {
+    border-radius: 16px;
+    padding: 25px;
+}
+.close_btn {
+    border: 1px solid #673ab7;
+    color: #673ab7;
+}
+.close_btn:hover {
+    background-color: #673ab7;
+    color: #fff;
+}
+.color_modal .modal-footer button {
+    font-size: 20px;
+    padding: 3px 20px;
+}
+.color_modal .close {
+    background-color: #4c4f5e;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    color: #fff;
+    padding: 0;
+    opacity: 1;
+    font-size: 17px;
+}
+.color_modal .modal-header,
+.color_modal .modal-footer {
+    border-color: rgba(230, 230, 232, 0.8);
+}
+.color_modal .modal-dialog {
+    width: 700px;
+}
+.pickclass {
+    display: block !important;
+}
+.rpickclass {
+    display: none !important;
+}
+.iris-picker {
+    width: 100% !important;
+}
+.weekend {
+    color: red;
+}
+.clearcell {
+    position: sticky;
+    /* margin: 5px; */
+}

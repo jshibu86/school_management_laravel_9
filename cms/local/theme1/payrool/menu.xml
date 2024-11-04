@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Accounts" order="6">
+      
+        <menugroup name="Payroll" icon="bx bxs-bank" order="1">
+            <menu name="Salery Particulars" route="saleryparticulars.index" />
+            <menu name="Salery Template" route="salerytemplate.index" />
+            <menu name="Payroll" route="payroll.index" />
+            <menu name="Payroll Tax" route="PayrollSchedule" />
+            <menu name="Make Payment" route="PayrollMakePayment" />
+            <menu name="Payment History" route="PaymentHistory" />
+            <menu name="Payroll Deduction" route="payrolldeduction.index" />
+            
+        </menugroup>
+
+          
+    </group>
+      
+</menus>

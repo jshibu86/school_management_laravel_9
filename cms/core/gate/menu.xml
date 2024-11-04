@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Permissions" order="19">
+        <menu name="Permissions" icon="bx bx-error-circle" route="roles_index_from_admin"/>
+    </group>
+</menus>

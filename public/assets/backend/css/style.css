@@ -1,0 +1,127 @@
+/*-------------font linking-------------*/
+@import url("https://fonts.googleapis.com/css2?family=Galada&family=Poppins:wght@300;400&display=swap");
+/* @font-face {
+    font-family: "Roboto-Regular";
+    src: url(../fonts/Roboto-Regular.ttf) format("truetype");
+} */
+
+/*-------------general styling-------------*/
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+
+    font-family: "Poppins", sans-serif !important;
+}
+
+/* login styles */
+.overlay {
+    background-color: rgb(30 41 59 / 1) !important;
+}
+.login_bg {
+    background-image: url(../../images/body-bg.jpg) !important;
+    padding: 80px 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.login-col {
+    float: none !important;
+    margin: auto;
+}
+.mat-5 {
+    margin-top: 40px;
+}
+.ma-5 {
+    margin: 36px 0;
+}
+.rem_txt {
+    margin-bottom: 0;
+    padding-left: 15px;
+}
+.error__message {
+    color: red;
+    text-align: center;
+}
+.login-table,
+.login-table td {
+    width: 100%;
+}
+.login_box {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 50px 20px;
+}
+.login_box_head h2 {
+    font-size: 26px;
+}
+.login_box_head h6,
+.rem_txt {
+    font-size: 14px;
+}
+.login_icon {
+    position: relative;
+    top: -35px;
+    left: 10px;
+    color: #415094;
+}
+.login-table .login-input {
+    padding-left: 32px;
+    height: 45px;
+}
+.login-table .login-input::placeholder {
+    color: #000;
+}
+.loginform_sec {
+    width: 80%;
+    margin: auto;
+}
+.login-table input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    margin: 0;
+}
+.login-button {
+    width: 100%;
+    border-radius: 8px;
+    background-color: #415094;
+    border: 1px solid#415094;
+    font-size: 20px;
+    color: #fff;
+    padding: 5px;
+}
+.login-button:hover {
+    background-color: transparent;
+    color: #415094;
+}
+.centeralign {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.copy__rights {
+    margin-top: 8px;
+    text-align: center;
+}
+.cd-form-bottom-message {
+    text-align: center !important;
+}
+
+@media (max-width: 767px) {
+    .container-full {
+        width: 80%;
+    }
+}
+@media (max-width: 400px) {
+    .loginform_sec {
+        width: 100%;
+    }
+    .container-full {
+        width: 90%;
+    }
+}

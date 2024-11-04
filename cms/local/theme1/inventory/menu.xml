@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Inventory" order="8">
+            <menu name="Category" route="InventoryCategory" icon="bx bx-category-alt"/>
+            <menu name="Products" route="InventoryProduct" icon="bx bx-store"/>
+            <menu name="Purchase" route="InventoryPurchase" icon="bx bx-purchase-tag-alt"/>
+            <menu name="Sale" route="inventory.index" icon="bx bx-purchase-tag-alt"/>
+            
+          
+    </group>
+     
+</menus>

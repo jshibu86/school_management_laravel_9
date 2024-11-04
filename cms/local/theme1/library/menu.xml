@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Institute" order="5">
+       <menugroup name="Library" icon="bx bx-book" order="3">
+            <menu name="Book Category" route="bookcategory.create" />
+         
+            <menu name="Books" route="library.index" />
+            <menu name="E Book" route="ebook.index" />
+            <menu name="Member" route="member.index" />
+       
+            <menu name="Issue/Return Book" route="issuebook.index" />
+        </menugroup>
+    </group>
+      
+</menus>
+

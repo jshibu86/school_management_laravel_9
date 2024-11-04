@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Institute" order="5">
+       <menugroup name="Exam Mark" icon="bx bxs-graduation" order="5">
+            <menu name="Grade" route="grade.index" />
+            <menu name="Mark Distribution" route="markdistribution.index" />
+            <menu name="Entry Mark" route="mark.index" />
+           
+           
+             
+           
+           
+        </menugroup>
+    </group>
+      
+</menus>
+

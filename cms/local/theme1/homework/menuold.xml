@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Study Meterials" order="4">
+        <menugroup name="Homework" icon="bx bx-file" order="5">
+            <menu name="View homework" route="homework.index" />
+            <menu name="Add homework" route="homework.create" />
+        </menugroup>
+    </group>
+</menus>

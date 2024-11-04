@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="General" order="3">
+        
+        <menu name="Demo Schedule" icon="bx bxs-caret-right-circle" route="Demo.index"/>
+       
+    </group> 
+</menus>

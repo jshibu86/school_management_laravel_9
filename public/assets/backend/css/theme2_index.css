@@ -1,0 +1,117 @@
+.table-div table {
+    width: 100% !important;
+}
+/* body .container.body .right_col {
+    background-color: #fff !important;
+} */
+span.section.contact_box_head {
+    color: #0fa6e5;
+    margin-bottom: 5px;
+    font-weight: 600;
+    border: 0;
+}
+.contact_box .breadcrumb {
+    color: #000;
+    padding: 0 !important;
+    background-color: #fff;
+}
+.contact_box .breadcrumb .active {
+    color: #0fa6e5;
+}
+.black_txt,
+.contact_box .breadcrumb > li + li:before {
+    color: #000;
+}
+.view_options {
+    text-align: right;
+}
+.view_options i {
+    color: #000;
+    font-size: 23px;
+    padding-left: 8px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.view_options i.active,
+.view_options i:hover {
+    color: #0fa6e5;
+}
+
+.grid_box {
+    box-shadow: 3px 3px #f2f2f2;
+    padding: 15px 10px;
+    border-radius: 7px;
+    border-top: 8px solid #0fa6e5;
+}
+.grid_box h2 {
+    color: #0fa6e5;
+    font-size: 22px;
+}
+.grid_box h6 {
+    color: #9d9ea0;
+    margin: 5px 0;
+}
+.grid_box img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.contact_btns button {
+    background-color: #0fa6e5;
+    border-radius: 10px;
+    color: #fff;
+    border: 1px solid #0fa6e5;
+    margin-top: 20px;
+    font-size: 12px;
+    width: 60px;
+    line-height: 1.5;
+}
+.contact_btns button:hover {
+    color: #0fa6e5;
+    background-color: transparent;
+}
+.contact_btns button i {
+    margin-right: 5px;
+}
+.center_con {
+    display: flex;
+    align-items: center;
+}
+.create_btn {
+    margin-bottom: 25px !important;
+}
+.action_btn {
+    height: 72px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.action_btn button {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0px !important;
+}
+/* .btn_style button,
+.btn_style a.btn:hover,
+a.editbutton:hover,
+.dataTables_paginate .pagination a:hover {
+    background-color: #0fa6e5 !important;
+    color: #fff !important;
+    border: 1px solid #0fa6e5 !important;
+}
+.btn_style button:hover,
+.btn_style button:focus,
+.btn_style button:active,
+.btn_style button.active,
+.open > .dropdown-toggle.btn-danger,
+.btn_style a.btn,
+a.editbutton,
+.dataTables_paginate .pagination a {
+    color: #0fa6e5 !important;
+    background-color: transparent !important;
+    border: 1px solid #0fa6e5 !important;
+    box-shadow: none !important;
+} */
+.another_view {
+    display: none;
+}

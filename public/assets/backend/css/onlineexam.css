@@ -1,0 +1,140 @@
+/*-------------font linking-------------*/
+
+/*-------------general styling-------------*/
+:root {
+    --orange-color: #dd4901;
+}
+
+.take_exam_tab .nav-tabs .nav-link,
+.take_exam_tab .nav-tabs {
+    border: none !important;
+    border-radius: 0;
+}
+.take_exam_tab .nav-tabs .nav-item {
+    width: 20%;
+}
+.take_exam_tab .nav-tabs .nav-link {
+    background-color: #656f7d;
+    color: #fff;
+    margin: 5px;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px 10px;
+}
+.take_exam_tab .nav-tabs .nav-link.qusactive {
+    background-color: #d9534f;
+}
+.take_exam_tab .nav-tabs .nav-link.qusactiveblue {
+    background-color: #2196f3;
+}
+.take_exam_tab .tab_box {
+    border: 1px solid #d4d4d4;
+    border-radius: 3px;
+}
+.empty_sp {
+    height: 40px;
+    background-color: #fff;
+    border-radius: 3px;
+}
+.take_exam_tab .tab-content {
+    background-color: #fafafa;
+    padding: 15px;
+}
+.noquscls {
+    color: #2196f3;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.qus_txt {
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.mark_txt {
+    font-size: 16px;
+    text-transform: capitalize;
+    white-space: nowrap;
+}
+.take_exam_radio {
+    appearance: none;
+    border: 2px solid #e1e8f8;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    line-height: 33px;
+    text-align: center;
+    background-color: transparent;
+}
+.alertmessage {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.exam__information {
+    background-color: white;
+    padding: 10px;
+}
+.take_exam_radio:before {
+    content: "\f00c";
+    font: normal normal normal 14px/1 FontAwesome;
+    color: transparent;
+}
+.ans_span:hover .take_exam_radio:before {
+    color: #efefef;
+}
+.take_exam_radio:checked {
+    background-color: #44a1ef;
+    color: #fff;
+}
+.take_exam_radio:checked:before {
+    color: #fff;
+}
+.ans_span {
+    margin-bottom: 10px;
+}
+.fill_blanks_text {
+    width: 50%;
+    margin: 12px;
+}
+.quspaper_type {
+    width: 300px !important;
+}
+.take_exam_btns button {
+    padding: 3px 10px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff !important;
+}
+.bg_red {
+    background-color: #d9534f;
+}
+.bg_lightblue {
+    background-color: #6ab3ce;
+}
+.bg_blue {
+    background-color: #2196f3;
+}
+.bg_gray {
+    background-color: #656f7d;
+}
+.take_exam_radio.take_exam_checkbox {
+    border-radius: 3px;
+}
+.qus_sidebar {
+    background-color: #fff;
+    border-radius: 3px;
+}
+.siderbar_head {
+    font-size: 18px;
+    color: #707478;
+}
+.sum_box {
+    width: 85px;
+    height: 70px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    line-height: 70px;
+    margin-right: 10px;
+}

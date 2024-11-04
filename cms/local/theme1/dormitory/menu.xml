@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Institute" order="5">
+       <menugroup name="Hostel" icon="bx bx-home" order="4">
+            <menu name="Room Type" route="dormitoryroomtype.index" />
+            <menu name="Hostel Rooms" route="dormitoryroom.index" />
+            <menu name="Hostel" route="dormitory.index" />
+             
+            <menu name="Assign Rooms" route="dormitorystudent.index" />
+           
+        </menugroup>
+    </group>
+      
+</menus>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Subscription" order="5">
+       <menugroup name="Subscription Mgmt" icon="bx bxs-bell-plus" order="subscription.index">
+            <menu name="Setup Plan" route="setupplan.index" />             
+            <menu name="Subscribe" route="subscription.index" /> 
+            <menu name="Module" route="module.index" /> 
+        </menugroup>
+    </group>
+      
+</menus>

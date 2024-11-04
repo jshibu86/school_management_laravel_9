@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="3">
+       
+
+       
+            <menu name="Classteachers" route="classteacher.index" icon="bx bx-user-voice"/>
+           
+        
+    </group>
+      
+</menus>
+

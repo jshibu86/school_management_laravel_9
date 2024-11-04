@@ -1,0 +1,8 @@
+{
+  "name": "department",
+  "version": "0.0.1",
+  "type" : "local",
+  "providers": [
+    "Providers\\DepartmentServiceProvider"
+  ]
+}

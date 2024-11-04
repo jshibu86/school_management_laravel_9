@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Institute" order="5">
+       <menugroup name="Fees" icon="bx bxs-credit-card-alt" order="6">
+            <menu name="Fee Type" route="feetype.index" />
+            <menu name="Fee Setup" route="feesetup.index" />
+            <menu name="Fees Payment" route="fees.index" />
+             
+           
+          
+        </menugroup>
+    </group>
+      
+</menus>
+

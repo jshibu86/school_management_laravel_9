@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="General" order="4">
+        
+        <menu name="Onboard School" icon="bx bxs-school" route="schoolmanagement.index"/>
+        <menu name="Revenue" icon="bx bxs-dollar-circle" route="revenue" />
+         <menu name="Tenant Informations" icon="bx bxs-school" route="tenant_info.index"/>
+    </group>
+</menus>

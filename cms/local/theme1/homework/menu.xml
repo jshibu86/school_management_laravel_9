@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Study Materials" order="4">
+       
+            <menu name="Homework" route="homework.index" icon="bx bx-file" />
+           
+    </group>
+</menus>

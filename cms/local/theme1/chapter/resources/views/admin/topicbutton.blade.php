@@ -1,0 +1,1 @@
+<a class="btn btn-info btn-sm" data-toggle="modal" data={{ $data->id }} href="{{ route('chaptertopic.create',["chapter_id"=>$data->id,"class_id"=>$data->class_id,"section_id"=>$data->section_id,"subject_id"=>$data->subject_id]) }}" title="add topics"><i class="fa fa-plus-circle"></i> Add Topic</a>

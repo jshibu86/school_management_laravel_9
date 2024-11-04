@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+
+     <menu name="Academic Year" route="academicyear.index" icon="bx bx-calendar" />
+      <menu name="Academic Term" route="examterm.index"  icon="bx bx-list-plus"/>
+       
+            
+           
+           
+    </group>
+    <group name="Academics" order="2">
+       
+           
+           <menu name="Class" route="lclass.index" icon="bx bx-building-house" />
+           
+           
+           
+    </group>
+</menus>

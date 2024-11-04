@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+        <menugroup name="Subject" icon="bx bx-book-alt" order="6">
+            <menu name="View Subject" route="subject.index" />
+            <menu name="Add Subject" route="subject.create" />
+            <menu name="Subject Teacher Assign" route="subjectteacherMapping" />
+        </menugroup>
+    </group>
+</menus>

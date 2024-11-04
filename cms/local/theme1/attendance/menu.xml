@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+     
+            <menu name="Daily Attendance" route="attendance.index" icon="bx bxs-user-pin" />
+            <menu name="Hourly Attendance" route="attendance.hourlyindex" icon="bx bxs-user-pin" />
+            <menu name="Staff Attendance" route="staff.attendance" icon="bx bxs-user-pin" />
+         
+    </group>
+     
+</menus>
+

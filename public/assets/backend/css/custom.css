@@ -1,0 +1,19 @@
+.info__Section {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.school_table th,
+.school_table td {
+    color: #442d87;
+    border: 1px solid black;
+}
+.school_table {
+    text-align: center;
+}
+.tab_head th {
+    border: 1px solid black;
+}
+.tab_admission {
+    width: 130px;
+}

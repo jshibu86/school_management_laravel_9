@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Accounts" order="6">
+      
+            <menu name="Wallet" route="wallet.index" icon="bx bx-wallet-alt"/>
+          
+    </group>
+      
+</menus>

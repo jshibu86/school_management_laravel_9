@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Report Management" order="6">
+        <menu name="Exam Time Table" icon="bx bxs-graduation" route="examtimetable" />
+    </group>
+ </menus>

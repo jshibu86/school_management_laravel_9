@@ -1,0 +1,6 @@
+{
+    "name": "schoolmanagement",
+    "version": "0.0.1",
+    "type": "core",
+    "providers": ["Providers\\SchoolmanagementServiceProvider"]
+}

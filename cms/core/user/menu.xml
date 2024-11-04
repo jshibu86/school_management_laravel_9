@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="General" order="1">
+        
+        <menu name="User" icon="bx bx-user" route="user.index"/>
+       
+    </group>
+</menus>

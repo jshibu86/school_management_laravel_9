@@ -1,0 +1,6 @@
+{
+    "name": "Demo",
+    "version": "0.0.1",
+    "type": "core",
+    "providers": ["Providers\\DemoServiceProvider"]
+}

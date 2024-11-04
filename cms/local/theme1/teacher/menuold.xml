@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="3">
+        <menugroup name="Staff" icon="bx bx-user" order="4">
+            <menu name="View staff" route="teacher.index" />
+            <menu name="Add staff" route="teacher.create" />
+        </menugroup>
+    </group>
+</menus>

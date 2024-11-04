@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="CMS" order="20">
+      
+        <menugroup name="CMS Menu" icon="bx bxs-bank" order="1">
+            <menu name="Home Page" route="cmsmenu.index" />
+            <menu name="About Us" route="aboutus.index" />
+            <menu name="Events" route="eventsmenu_index" />
+            <menu name="Gallery" route="gallerymenu.index" />
+            <menu name="Academics" route="academicsmenu.index" />
+            <menu name="Contact Us" route="contactusmenu.index" />
+            
+        </menugroup>
+
+          
+    </group>
+      
+</menus>

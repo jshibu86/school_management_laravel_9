@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "axios": "^0.21",
+        "browser-sync": "^2.29.3",
+        "browser-sync-webpack-plugin": "^2.3.0",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vue": "^3.3.4",
+        "vue-loader": "^16.8.3",
+        "vue-template-compiler": "^2.7.14"
+    },
+    "dependencies": {
+        "@prettier/plugin-php": "^0.18.9",
+        "lightgallery": "^2.7.0",
+        "pinia": "^2.1.6",
+        "prettier": "^2.7.1"
+    }
+}

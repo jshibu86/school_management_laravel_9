@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Institute" order="5">
+       <menugroup name="Leave Application" icon="bx bx-file" order="2">
+            <menu name="Leave Type" route="leave.leavetypes" />
+            <menu name="View Leave" route="leave.index" />
+            <!-- <menu name="Approved Requests" route="leave.approvedrequests" /> -->
+            <menu name="Apply Leave" route="leave.create" />
+        </menugroup>
+    </group>
+      
+</menus>
+

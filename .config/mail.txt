@@ -1,0 +1,20 @@
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=465
+MAIL_USERNAME=wpdev2.webbazaar@gmail.com
+MAIL_PASSWORD=xozhomnpgpmuqolw
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS=wpdev2.webbazaar@gmail.com
+MAIL_FROM_NAME="${APP_NAME}"
+
+
+
+//change .env to production send email
+
+
+  apiKey: "AIzaSyAJlxPPoEi2GLlqfYjpb8r_25tYMlSrsvY",
+  authDomain: "fir-c85ac.firebaseapp.com",
+  projectId: "fir-c85ac",
+  storageBucket: "fir-c85ac.appspot.com",
+  messagingSenderId: "352867867834",
+  appId: "1:352867867834:web:5cb9c3b7b92c94c5b27683",

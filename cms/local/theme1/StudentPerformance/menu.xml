@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Report Management" order="6">
+        <menu name="Student Performance" icon="bx bxs-graduation" route="studentperformance" />
+    </group>
+ </menus>

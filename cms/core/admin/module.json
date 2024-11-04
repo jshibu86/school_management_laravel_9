@@ -1,0 +1,16 @@
+{
+  "name": "admin",
+  "version": "0.0.2",
+  "type" : "core",
+  "providers": [
+    "providers\\AdminServiceProvider"
+  ],
+  "helpers" : {
+
+  },
+  "permissions" : {
+    "add" : ["Backend Access"],
+    "except" : ["create","edit","view","delete"]
+  }
+
+}

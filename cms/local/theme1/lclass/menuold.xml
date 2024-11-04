@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+        <menugroup name="Class" icon="bx bx-building-house" order="2">
+            <menu name="View Class" route="lclass.index" />
+            <menu name="Add Class" route="lclass.create" />
+        </menugroup>
+
+         <menugroup name="Academic year" icon="bx bx-calendar" order="1">
+            <menu name="View Academic" route="academicyear.index" />
+            <menu name="Add Academic" route="academicyear.create" />
+        </menugroup>
+    </group>
+</menus>

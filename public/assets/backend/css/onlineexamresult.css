@@ -1,0 +1,34 @@
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.result__information {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.company-details {
+    text-align: center;
+}
+.container {
+    width: 50%;
+    margin: auto;
+    background-color: white;
+}
+.online__exam {
+    height: 100vh;
+    background-color: #f3f3f3;
+}
+.bg_success {
+    background-color: #5cad1f;
+}
+.result_info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #1264a5;
+    color: white;
+}

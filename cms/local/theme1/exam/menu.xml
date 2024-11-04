@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+            <menu name="Online Exam" route="onlineexam.index"  icon="bx bx-list-plus"/>
+            <menu name="Home Work" route="homework_index"  icon="bx bx-list-plus"/>
+            <menu name="Exam Type" route="examtype.index"  icon="bx bx-list-plus"/>
+             
+            <menu name="Admission Exam" route="admissionexam.index"  icon="bx bx-list-plus"/>
+         
+            <menu name="Exam" route="exam.index" icon="bx bxs-file-doc"/>
+           
+   
+    </group>
+      
+</menus>

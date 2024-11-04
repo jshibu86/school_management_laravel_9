@@ -1,0 +1,8 @@
+{
+  "name": "students",
+  "version": "0.0.1",
+  "type" : "local",
+  "providers": [
+    "Providers\\StudentsServiceProvider"
+  ]
+}

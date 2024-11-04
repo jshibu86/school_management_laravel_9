@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Institute" order="5">
+       <menugroup name="Visitor Book" icon="bx bx-book-content" order="7">
+            <menu name="Visitor Book" route="visitorbook.index" />
+            
+        </menugroup>
+
+         <menugroup name="Complaint" icon="bx bx-book-content" order="7">
+            <menu name="Complaints" route="complaints.index" />
+            
+        </menugroup>
+
+        <menugroup name="Phone Catalogue" icon="bx bx-book-content" order="7">
+            <menu name="Catalogue" route="phonecatalog.index" />
+            
+        </menugroup>
+    </group>
+      
+</menus>
+

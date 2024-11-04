@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="General" order="0">
+        
+        <menu name="Students" icon="bx bx-user-check" route="students.index"/>
+        <menu name="School Type" icon="bx bx-user-check" route="schooltype.index"/>
+       
+    </group>
+</menus>

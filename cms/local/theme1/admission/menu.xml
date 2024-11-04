@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="1">
+     
+            <menu name="Admission" route="admission.index" icon="bx bxs-user-pin" />
+                    
+    </group>
+     
+</menus>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Study Materials" order="4">
+       
+            <menu name="Syllabus" route="chapter.index" icon="bx bx-file"/>
+           
+    </group>
+</menus>

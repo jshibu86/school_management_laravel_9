@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Report Management" order="6">
+       <menugroup name="Exam Mark Report" icon="bx bxs-graduation" order="1">
+           
+            <menu name="Get Mark Report" route="Getmarkreport" />
+             <menu name="Student Promotion" route="promotion.create" />
+             <menu name="BroadSheet Report" route="broadsheet" />
+           
+        </menugroup>
+        <!-- <menu name="Student Report" icon="bx bxs-graduation" route="studentreport" /> -->
+        <menu name="Student ID Card Report" icon="bx bxs-graduation" route="StudentIdcard" />
+        <menu name="Transport Report" icon="bx bxs-graduation" route="transportreport" />
+        <menu name="Hostel Report" icon="bx bxs-graduation" route="hostelreport" />
+        <menu name="Class Report" icon="bx bxs-graduation" route="classreport" />
+        <menu name="leave Report" icon="bx bxs-graduation" route="leavereport" />
+        <menu name="Payroll Report" icon="bx bxs-graduation" route="payrollreport" />
+        <menu name="Payroll Bulk Print" icon="bx bxs-graduation" route="payrollbulkprint" />
+        <menu name="Attendance Report" icon="bx bxs-graduation" route="attendancereport" />
+        <menu name="TuckShop Report" icon="bx bxs-graduation" route="tuckshopreport" />
+        <menu name="Certificate Bulk Print" icon="bx bxs-graduation" route="certificatebulkreport" />
+        <menu name="Certificate Configurations" icon="bx bxs-graduation" route="certificateconfigurations" />
+        <menu name="Greade Report" icon="bx bxs-graduation" route="gradereportoverall" />
+        
+        
+        
+      
+    </group>
+      
+</menus>

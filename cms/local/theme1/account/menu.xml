@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Accounts" order="6">
+      
+        <menugroup name="Income Expense" icon="bx bx-line-chart" order="2">
+            <menu name="Account Dashboard" route="account.index" />
+            <menu name="Category" route="accountcategory.index" />
+            <menu name="Income" route="income.index" />
+            <menu name="Expense" route="expense.index" />
+           
+            
+        </menugroup>
+
+         
+    </group>
+      
+</menus>

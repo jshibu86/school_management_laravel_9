@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+        
+            <menu name="Virtual Communication" route="virtualcomunication.index" icon="bx bxs-video" />
+           
+       
+    </group>
+</menus>

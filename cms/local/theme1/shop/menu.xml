@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Tuck Shop" order="7">
+      
+            <menu name="Products" route="shop.index" icon="bx bx-store"/>
+            <menu name="Purchase" route="purchase.index" icon="bx bx-purchase-tag-alt"/>
+            <menu name="Order" route="order.index" icon="bx bxs-cart-download"/>
+            <menu name="Supplier" route="supplier.index" icon="bx bxs-cart-download"/>
+          
+    </group>
+     
+</menus>

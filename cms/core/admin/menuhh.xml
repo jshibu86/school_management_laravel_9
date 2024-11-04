@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="General" order="0">
+        <menu name="Dashboard" icon="fa fa-dashboard" route="/administrator" is_url="1"/>
+    </group>
+</menus>
+

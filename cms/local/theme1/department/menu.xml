@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+    <group name="Academics" order="2">
+        
+            <menu name="Department" route="department.index" icon="bx bx-badge-check" />
+           
+       
+    </group>
+</menus>
